@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![Landing](https://github.com/Moneyflow-id/.github/tree/main/assets/landing.png)
+![Landing](https://raw.githubusercontent.com/Moneyflow-id/.github/main/assets/landing.png)
